@@ -760,7 +760,7 @@ header {
 }
 
 .mywork .grid-container .project:nth-child(1) {
-  background: url("../assets/mywork/portfolio/main.PNG");
+  background: url("../assets/mywork/main.PNG");
   background-size: cover;
   position: relative;
   width: 100%;
@@ -798,7 +798,7 @@ header {
 }
 
 .mywork .grid-container .project:nth-child(2) {
-  background: url("../assets/mywork/portfolio/main2.PNG");
+  background: url("../assets/mywork/main2.PNG");
   background-size: cover;
   position: relative;
   width: 100%;
@@ -877,7 +877,7 @@ header {
 }
 
 .mywork .grid-container .project:nth-child(4) {
-  background: url("../assets/mywork/portfolio/main3.PNG");
+  background: url("../assets/mywork/main3.PNG");
   background-position-x: center;
   background-size: cover;
   position: relative;
@@ -918,7 +918,7 @@ header {
 }
 
 .mywork .grid-container .project:nth-child(5) {
-  background: url("../assets/mywork/portfolio/main6.PNG");
+  background: url("../assets/mywork/main6.PNG");
   background-position-x: center;
   background-size: cover;
   position: relative;
